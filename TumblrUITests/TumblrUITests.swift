@@ -1,9 +1,10 @@
+
 //
 //  TumblrUITests.swift
-//  TumblrUITests
+//  Tumblr
 //
-//  Created by Jared on 2/24/16.
-//  Copyright © 2016 plainspace. All rights reserved.
+//  Created by Pietro Schirano on 6/6/16.
+//  Copyright © 2016 Pietro Schirano. All rights reserved.
 //
 
 import XCTest
